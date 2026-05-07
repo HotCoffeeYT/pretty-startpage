@@ -34,6 +34,7 @@ function applySettings(s) {
   clockFontSelect.value = s.clockFont;
   clockEl.style.fontFamily = s.clockFont;
   updateTZLabel(s.timezone);
+  qInput.placeholder=`${searchUrlInput.value.replace(/https?:\/\/(www\.)?|\..*/g, '').at(0).toUpperCase() + searchUrlInput.value.replace(/https?:\/\/(www\.)?|\..*/g, '').slice(1)} Search`
 }
 
 function updateTZLabel(tz) {
