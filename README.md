@@ -38,5 +38,5 @@ You can adjust basic settings directly within the UI.
 
 ---
 
-Add me on discord! *goybsd*
+Add me on discord! ***goybsd***
 :)
