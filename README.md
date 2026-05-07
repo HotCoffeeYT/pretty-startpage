@@ -12,13 +12,15 @@ Based on the <a href="https://github.com/catppuccin/catppuccin/tree/main/">Catpp
 ## Demo
 
 Check out the demo! :)
-> https://fossisawesome.github.io/pretty-startpage/
+> https://fossisawesome.github.io/pretty-startpage/web/
 
 ---
 
 ## Pictures
 
 ## Usage
+
+**WARNING!** Make sure your link has `web/` at the end! Example: `https://yourgithubusername.github.io/yourforksname/web/`
 
 1. Fork this repo.
 2. Enable GitHub Pages: 
