@@ -9,6 +9,11 @@ Based on the <a href="https://github.com/catppuccin/catppuccin/tree/main/">Catpp
 
 ---
 
+## Demo
+
+Check out the demo! :)
+> https://fossisawesome.github.io/pretty-startpage/
+
 ## Usage
 
 1. Fork this repo.
@@ -25,7 +30,3 @@ You can adjust basic settings directly within the UI.
 
 > Tip: You can customize it more by editing the files directly, but I will try to make the settings more advanced later.
 
-## Demo
-
-Check out the demo! :)
-> https://fossisawesome.github.io/pretty-startpage/
