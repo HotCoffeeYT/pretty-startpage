@@ -1,4 +1,4 @@
-<h3 align="center">
+<h1 align="center">
   Pretty Startpage
   
 A simple, customizable new tab page/start page for your browser.
